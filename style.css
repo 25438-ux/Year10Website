@@ -40,6 +40,7 @@ img {
     font-size: 2em;
     padding: 0.1em 3em;
     background-color: rgb(199, 58, 164);
+      font-family: "Londrina Shadow", sans-serif;
 }
 
 /* Three column grid with a nice big gap */
@@ -77,4 +78,8 @@ img {
     color: white;
     text-align: right;
     padding: 3em 3em;
+}.londrina-shadow-regular {
+  font-family: "Londrina Shadow", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
